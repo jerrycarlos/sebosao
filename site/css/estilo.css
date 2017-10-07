@@ -1,0 +1,21 @@
+.cardPersonalizado{
+	margin:auto;
+}
+.carousel-item img{
+	height:300px;
+}
+#corpo{
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+        height: 400px;
+}
+.alinhadoCentro{
+    text-align: center;
+}
+
+.alinhadoDireita{
+    text-align: right;
+}
+.linha{
+    margin-top:10px;
+}
